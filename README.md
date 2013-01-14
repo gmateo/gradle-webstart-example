@@ -1,4 +1,4 @@
 gradle-webstart-example
 =======================
 
-Example of generating webstart files using gradle 
+Example of generating Java Web Start files using gradle 
